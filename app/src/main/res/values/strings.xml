@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DaftarJenisTanaman</string>
+    <string name="plant_name">Nama Tanaman</string>
+    <string name="detail">Detail</string>
+    <string name="my_name">Nama</string>
+    <string name="my_email">Email</string>
+    <string name="title_name_plant">Nama Tanaman</string>
+    <string name="name_plant">Nama Tanaman</string>
+    <string name="title_name_scientific_plant">Nama Ilmiah Tanaman</string>
+    <string name="name_scientific_plant">Nama Ilmiah Tanaman</string>
+    <string name="title_name_kingdom_plant">Kerajaan Tanaman</string>
+    <string name="name_kingdom_plant">Kerajaan Tanaman</string>
+    <string name="title_plant_come_from">Asal Tanaman</string>
+    <string name="plant_come_from">Asal Tanaman</string>
+    <string name="title_detail_plant">Detail Tanaman</string>
+    <string name="detail_plant">Detail Tanaman</string>
+</resources>
